@@ -1,7 +1,7 @@
 :root {
     --primary: #f8f8f8;
-    --accent: #FFCC00;        /* Yellow from American traditional palette */
-    --accent-dark: #E6B800;   /* Darker yellow for hover states */
+    --accent: #6266d1;
+    --accent-dark: #3b3d80;
     --background: #121212;
     --card-bg: #1E1E1E;
     --border: #333333;
@@ -164,9 +164,8 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 
 .unit {
-    font-size: 1rem;
+    font-size: 2rem;
     color: var(--text-muted);
-    margin-left: 0.25rem;
 }
 
 .rate-info {
