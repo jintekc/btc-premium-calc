@@ -59,7 +59,7 @@ select option {
     color: var(--primary);
 }
 
-.input-wrapper::after {
+.exchange-rate::after {
     content: "▼";
     position: absolute;
     right: 1rem;
